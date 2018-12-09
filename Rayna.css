@@ -1,0 +1,18 @@
+
+body{
+    background-color: midnightblue;
+    font-size: 24px;
+    font-family: 'roboto';
+    text-align: center
+}
+
+header{
+        font-size: 30px;    
+        text-align: center;    
+}
+
+img{
+    width: 300px;
+    height: 250px;
+    
+}
